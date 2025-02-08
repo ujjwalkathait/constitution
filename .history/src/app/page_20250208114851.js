@@ -1,9 +1,8 @@
 import Image from "next/image";
-import home from "./home/page"
+import home from 
 
 export default function Home() {
   return (
-    <home />
     
   );
 }
