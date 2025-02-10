@@ -44,7 +44,7 @@ export default function BlogPage() {
                 <Link href="/" className="text-gray-700 hover:text-indigo-600">Home</Link>
                 <Link href="/blog" className="text-gray-700 hover:text-indigo-600">Blog</Link>
                 <Link href="/about" className="text-gray-700 hover:text-indigo-600">About</Link>
-                <Link href="/contact" className="text-gray-700 hover:text-indigo-600">Contact</Link>
+                <Link href="/contact" className="text-gray-700 hover:text-indigo-600">Contact Us</Link>
               </div>
             </div>
           </div>
